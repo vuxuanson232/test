@@ -1,0 +1,22 @@
+.body{
+    padding: auto;
+    width: 100%;
+}
+.content .mt-3{
+    margin-left: 10px;
+}
+.top{
+    display: flex;
+    padding-left: 50px;
+    
+    background-color: greenyellow;
+}
+.con{
+    padding-left:20px;
+}
+.btn{
+    margin-top: 10px;
+    display: block;
+   background-color: aquamarine;
+
+}
